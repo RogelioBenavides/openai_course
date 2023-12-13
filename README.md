@@ -1,1 +1,1 @@
-# openai_course
+# Open AI Course Projects
